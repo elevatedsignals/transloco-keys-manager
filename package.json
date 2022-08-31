@@ -23,7 +23,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "repository": "git://github.com/elevatedsignals/elevatedpackages.git",
+  "repository": "git://github.com/elevatedsignals/transloco-keys-manager.git",
   "keywords": [
     "angular",
     "angular 2",
