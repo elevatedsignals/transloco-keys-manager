@@ -32,7 +32,7 @@ function TSExtractor(config: ExtractorConfig): ScopeMap {
     extractors.push(serviceExtractor, pureFunctionExtractor);
   }
 
-  if (content.includes('@ngneat/transloco-keys-manager')) {
+  if (content.includes('@elevatedsignals/transloco-keys-manager')) {
     extractors.push(markerExtractor);
   }
 
